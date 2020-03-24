@@ -20,7 +20,7 @@ estruturados e asset allocation.
 
 *Calculando a expectativa de retorno com CAPM*
 
-*Calculando o Beta de um Ação *
+*Calculando o Beta de um Ação*
 
 *Calculando o Índice de Sharpe*
 

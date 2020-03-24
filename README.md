@@ -19,14 +19,23 @@ estruturados e asset allocation.
 **Todos os Cods são comentados linha a linha, apenas os muitos obvios que não**
 
 *Calculando a expectativa de retorno com CAPM*
+
 *Calculando o Beta de um Ação *
+
 *Calculando o Índice de Sharpe*
+
 *Calculo de Covariancias entre ativos*
+
 *Calculo de Risco de ativos*
+
 *Monte Carlo Simulação de preços de ações*
+
 *Obtendo a Fronteira Eficiente de Markowitz*
+
 *Retorno logaritimo de uma ação*
+
 *Retorno simples de uma ação*
+
 *Taxa de Retorno de uma Carteria de Açoes*
 
 # OBS:

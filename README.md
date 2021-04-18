@@ -38,6 +38,8 @@ estruturados e asset allocation.
 
 *Taxa de Retorno de uma Carteria de Açoes*
 
+*Machine learnig - Prevendo o preço das ações com Python*
+
 # OBS:
 **Esse repositorio sempre será atualizado, para trazer novidades e novos jeitos de otimizar seus ganhos**
 

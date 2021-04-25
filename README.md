@@ -40,6 +40,8 @@ estruturados e asset allocation.
 
 *Machine learnig - Prevendo o preço das ações com Python*
 
+*Detecção de anomalias outliers*
+
 # OBS:
 **Esse repositorio sempre será atualizado, para trazer novidades e novos jeitos de otimizar seus ganhos**
 

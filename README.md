@@ -42,6 +42,9 @@ estruturados e asset allocation.
 
 *Detecção de anomalias outliers*
 
+*Prevendo preços de ações com o algoritmo do facebook Prophet*
+
+
 # OBS:
 **Esse repositorio sempre será atualizado, para trazer novidades e novos jeitos de otimizar seus ganhos**
 
